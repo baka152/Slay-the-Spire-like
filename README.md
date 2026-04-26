@@ -21,8 +21,6 @@
 
 
 
-## 环境要求
+## 下载链接:https://wwaqm.lanzoue.com/iJN5m3n8wp4b 密码:cr6j)
 
-- Unity 2022.3 或更高版本
-- C# 10+
 
